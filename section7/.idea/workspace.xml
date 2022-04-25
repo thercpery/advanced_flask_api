@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9af5ca33-0d4f-4d73-9f2e-aa10a9220332" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/section6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/section7.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/section7.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocklist.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/default_config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/image_helper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/mailgun.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/libs/strings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ma.py" beforeDir="false" afterPath="$PROJECT_DIR$/ma.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/confirmation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/item.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/store.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/user.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/user.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/resources/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/confirmation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/image.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/item.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/store.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/user.py" beforeDir="false" afterPath="$PROJECT_DIR$/resources/user.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/schemas/confirmation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schemas/image.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schemas/item.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schemas/store.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schemas/user.py" beforeDir="false" afterPath="$PROJECT_DIR$/schemas/user.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/confirmation_page.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/avatars/user_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strings/en-us.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strings/es-es.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/confirmation_page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/translation_file_checking_script.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="28JCLokD4UnrEvYe8oe4kn6A7pd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9af5ca33-0d4f-4d73-9f2e-aa10a9220332" name="Changes" comment="" />
+      <created>1650925248712</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650925248712</updated>
+    </task>
+    <servers />
+  </component>
+</project>

@@ -4,23 +4,20 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-flask = "*"
-flask-sqlalchemy = "*"
-flask-restful = "*"
-flask-jwt-extended = "*"
-marshmallow = "*"
+"psycopg2" = "*"
+Flask = "*"
+Flask-JWT-Extended = "*"
+Flask-RESTful = "*"
+Flask-SQLAlchemy = "*"
+python-dotenv = "*"
 flask-marshmallow = "*"
 marshmallow-sqlalchemy = "*"
-flask-cors = "*"
-werkzeug = "==2.0.0"
-requests = "*"
-python-dotenv = "*"
-flask-reuploaded = "*"
+marshmallow = "==3.0.0b12"
 
 [dev-packages]
 
 [requires]
-python_version = "3.9"
+python_version = "3.7"
 
 [pipenv]
 allow_prereleases = true
