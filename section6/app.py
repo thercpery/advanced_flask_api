@@ -12,7 +12,7 @@ from resources.user import (UserRegister, User, UserLogin, UserLogout, TokenRefr
 from resources.item import Item, ItemList
 from resources.store import Store, StoreList
 from resources.confirmation import Confirmation, ConfirmationByUser
-from resources.image import ImageUpload
+from resources.image import ImageUpload, Image, AvatarUpload, Avatar
 from libs.image_helper import IMAGE_SET
 from models.user import UserModel
 from models.item import ItemModel
@@ -71,6 +71,9 @@ api.add_resource(TokenRefresh, "/refresh")
 api.add_resource(Confirmation, "/api/user/confirm/<string:confirmation_id>")
 api.add_resource(ConfirmationByUser, "/api/user/confirmations/<int:user_id>")
 api.add_resource(ImageUpload, "/api/upload/image")
+api.add_resource(Image, "/api/image/<string:filename>")
+api.add_resource(AvatarUpload, "/api/upload/avatar")
+api.add_resource(Avatar, "/api/avatar/<int:user_id>")
 
 if __name__ == "__main__":
     app.run(port=6000, debug=True)
