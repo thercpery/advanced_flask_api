@@ -1,0 +1,27 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+"psycopg2" = "*"
+Flask = "*"
+Flask-JWT-Extended = "*"
+Flask-RESTful = "*"
+Flask-SQLAlchemy = "*"
+python-dotenv = "*"
+flask-marshmallow = "*"
+flask-migrate = "*"
+flask-oauthlib = "*"
+marshmallow-sqlalchemy = "*"
+marshmallow = "*"
+werkzeug = "2.0.0"
+sqlalchemy = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
+
+[pipenv]
+allow_prereleases = true
